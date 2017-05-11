@@ -3,11 +3,11 @@
 <title>CMV: EMTs, SAR, firefighters, police, etc. should receive “military discounts”.</title>
 <source>http://www.reddit.com/r/changemyview/comments/2rexe3/cmv_emts_sar_firefighters_police_etc_should/</source>
 <OP author="ke7ofi">
-For those of you who don’t know, it’s common (at least in the US) for businesses, transit agencies, etc. to give small discounts to military veterans to thank them for their service.
+<premise> For those of you who don’t know, it’s common (at least in the US) for businesses, transit agencies, etc. to give small discounts to military veterans to thank them for their service. </premise>
 
-It seems that medical responders (even hospital staff, actually) and other emergency services do more good for society than soldiers and that such discounts should be given to them.
+<claim> It seems that medical responders (even hospital staff, actually) and other emergency services do more good for society than soldiers </claim> and that <claim> such discounts should be given to them. </claim>
 
-As for the “They’re not risking their lives for our country.” argument, police officers do that too, and for citizens rather than the country and its interests. Some might argue that soldiers do the US a disservice rather than help, but that’s [usually] the fault of their leaders and therefore not relevant to the debate.
+<premise> As for the “They’re not risking their lives for our country.” argument, police officers do that too, and for citizens rather than the country and its interests. </premise> <premise> Some might argue that soldiers do the US a disservice rather than help </premise> , but <claim> that’s [usually] the fault of their leaders and therefore not relevant to the debate. </claim>
 
 I’m really hoping there’s a good reason behind the status quo, but we’ll see. [It looks like there’s even less reason behind it than I initially thought, actually.]
 
@@ -19,18 +19,18 @@ _____
 &gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
 </OP>
 <reply id="cnfdoik" author="foo_foo_the_snoo">
-You haven't really participated in this thread, but I'd like to point out federal vs. municipal difference when it comes to location of the discount. 
+You haven't really participated in this thread, but <claim> I'd like to point out federal vs. municipal difference when it comes to location of the discount. </claim>
 
-A coffee shop in Seattle might very well decide to have a local firefighters discount, (I can name a few that do.) But should they honor a vacationing firefighter from Omaha? How can he prove he's a firefighter? Why should a Seattlite care that a man's employed by a city in Nebraska? 
+<premise> A coffee shop in Seattle might very well decide to have a local firefighters discount </premise>, (<premise> I can name a few that do. </premise>) <premise> But should they honor a vacationing firefighter from Omaha? </premise> <premise> How can he prove he's a firefighter? </premise> <premise> Why should a Seattlite care that a man's employed by a city in Nebraska? </premise>
 
-While states may have local branches of National Guard, active duty military members serve the nation as a whole and carry one (1) form of identification that is accepted *everywhere.* 
+<premise> While states may have local branches of National Guard, active duty military members serve the nation as a whole and carry one (1) form of identification that is accepted *everywhere.* </premise>
 
-This simplifies the discount process and may point to a succinct reason why they tend to receive a blanket discount in most areas of the US. 
+  <premise> This simplifies the discount process </premise> and <claim> may point to a succinct reason why they tend to receive a blanket discount in most areas of the US. </claim>
 </reply>
 <reply id="cnfj6mm" author="ke7ofi">
-That’s a good point, though I’m curious as to why they don’t advertise the other discounts.
+  <claim> That’s a good point </claim>, though I’m curious as to why they don’t advertise the other discounts.
 </reply>
 <reply id="cnfnkh0" author="foo_foo_the_snoo">
-Admittedly, it's not as common as the military discount, but the places that have it advertise the hell out of it. 
+<premise> Admittedly, it's not as common as the military discount, but the places that have it advertise the hell out of it. </premise>
 </reply>
 </thread>
